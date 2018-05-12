@@ -1,0 +1,42 @@
+_repo: Dryden-s-Works-Vol.-3--of-18-Sir-Martin-Mar-All--The-Tempest--An-Evening-s-Love--Tyrannic-Lov__37645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+  editor:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2011-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- 17th century'
+tableOfContents: Sir Martin Mar-All, or the feigned innocence, a comedy -- The tempest,
+  or the enchanted island, a comedy -- An evening's love, or the mock astrologer,
+  a comedy -- Tyrannic love, or the royal martyr, a tragedy.
+title: Dryden's Works Vol. 03 (of 18)
+url: http://www.gutenberg.org/ebooks/37645

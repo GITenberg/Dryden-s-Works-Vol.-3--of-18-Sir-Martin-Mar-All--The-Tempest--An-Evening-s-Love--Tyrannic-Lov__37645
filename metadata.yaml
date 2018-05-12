@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37645#Dryden-s-Works-Vol.-3--of-18-Sir-Martin-Mar-All--The-Tempest--An-Evening-s-Love--Tyrannic-Lov_
 gutenberg_issued: '2011-10-06'
 gutenberg_type: Text
 identifiers:
